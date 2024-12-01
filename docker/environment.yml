@@ -1,5 +1,7 @@
 name: gaussianpro
 channels:
+  - anaconda
+  - main
   - pytorch
   - conda-forge
   - defaults
